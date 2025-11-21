@@ -165,3 +165,5 @@ Marconi Fábio Vieira
 InfoChoice Tecnologia Ltda
 40+ years of experience in IT, AI, Data Science & Project Management
 Brazil 🌎
+
+Post about the app: https://infochoice.com.br/site/index.php/2025/11/21/mvp3-climate-economic-risk-platform-a-new-integrated-view-of-state-level-vulnerability-in-brazil/
